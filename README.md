@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there, I'm JoseCarioca 👋
+About Me
+🎓 I'm currently studying a Bachelor's degree in Computer Science at the University of Cadiz.
