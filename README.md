@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **JoseCarioca/JoseCarioca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there, I'm JoseCarioca 👋
+### Hi there, I'm JoseCarioca 👋
 About Me
+
 🎓 I'm currently studying a Bachelor's degree in Computer Science at the University of Cadiz.
