@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm JoseCarioca 👋
+### Hi there, I'm Agustín 👋
 About Me
 
-🎓 I'm currently studying a Bachelor's degree in Computer Science at the University of Cadiz.
+🎓 I'm currently studying a Bachelor's degree in Computer Science at the University of Cadiz. 
+Curiosity brought me in, and ignorance keep me humble enough to stay.
+
+🌱 I'm still learning software development, data analytics, computability theory, mathematics... the list just keeps growing!
+
+😄 Pronouns: He/him
+
+💬 Mostly harmless... but pushes frequently.
